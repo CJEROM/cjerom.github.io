@@ -1,8 +1,7 @@
 ---
 title: First Blog
 description: My very first post
-author: CEROM
-date: 2025-02-08 18:58:00
+date: 2025-02-09 00:43:00
 categories: [hi]
 tags: [blog]
 pin: true

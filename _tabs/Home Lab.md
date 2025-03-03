@@ -17,7 +17,7 @@ order: 4
 | [Headscale](https://github.com/juanfont/headscale)                                  | VPN                                     |         |          |
 | [Tailscale](https://tailscale.com/)                                                 | VPN                                     |         |          |
 | [OpenVPN](https://openvpn.net/product-select/)                                      | VPN                                     |         |          |
-| [Bitwarden]()                                                                       | Password Manager                        |         |          |
+| [Bitwarden](https://github.com/bitwarden/server)                                    | Password Manager                        |         |          |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden)                           | Password Manager                        |         |          |
 | [Gitea](https://about.gitea.com/)                                                   | Git Server                              |         |          |
 | [Pi-hole](https://pi-hole.net/)                                                     | DNS filtering                           |         |          |
@@ -28,7 +28,7 @@ order: 4
 | [Wazuh](https://wazuh.com/)                                                         | HIDS / SIEM                             |         |          |
 | [ntopng](https://www.ntop.org/products/traffic-analysis/ntop/)                      | Web-based Traffic Analysis Tool         |         |          |
 | [Plex](https://www.plex.tv/media-server-downloads/?cat=computer&plat=windows)       | Media Server                            |         |          |
-| [UVHelpDesk]()                                                                      | Help Desk and ticketing (ITIL practice) |         |          |
+| [UVHelpDesk](https://www.uvdesk.com/en/)                                            | Help Desk and ticketing (ITIL practice) |         |          |
 | [Monica](https://github.com/monicahq/monica)                                        | personal relationship manager           |         |          |
 | [Actualbudget](https://actualbudget.org/)                                           | Budgetting and finance management       |         |          |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma)                              | Monitoring tool for servers             |         |          |

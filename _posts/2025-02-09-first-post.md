@@ -1,10 +1,9 @@
 ---
 title: First Blog
 description: My very first blog post
-date: 2025-02-19 20:42:00
-categories: [hi]
+date: 2025-02-09 20:42:00
+categories: [Miscellaneous]
 tags: [blog]
-pin: true
 ---
 
 ## Hello World!
